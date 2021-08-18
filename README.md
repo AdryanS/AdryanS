@@ -26,4 +26,4 @@
 
 
 
-![snake](https://raw.githubusercontent.com/AdryanS/AdryanS/output/github-contribution-grid-snake.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/AdryanS/AdryanS/output/github-contribution-grid-snake.svg)
