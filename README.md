@@ -13,6 +13,8 @@
   <img src="https://img.icons8.com/color/55/000000/typescript.png"/>
 </div>
 
+#
+
 ### 📕 interesse: 
 
 <div styles="display: grid; ;place-items: center; place-content:center; spacing:20px">
