@@ -10,9 +10,16 @@
   <img src="https://img.icons8.com/color/55/000000/javascript--v1.png"/>
   <img src="https://img.icons8.com/color/55/000000/html-5--v1.png"/>
   <img src="https://img.icons8.com/color/55/000000/css3.png"/>
-  <img src="https://img.icons8.com/color/55/000000/c-sharp-logo.png"/>
   <img src="https://img.icons8.com/color/55/000000/typescript.png"/>
+</div>
+
+### 📕 interesse: 
+
+<div styles="display: grid; ;place-items: center; place-content:center; spacing:20px">
+  <img src="https://img.icons8.com/color/55/000000/c-sharp-logo.png"/>
   <img src="https://img.icons8.com/color/55/000000/python--v1.png"/>
+  <img src="https://img.icons8.com/color/55/000000/nodejs.png"/>
+  <img src="https://img.icons8.com/color/55/000000/graphql.png"/>
 </div>
 
 #
