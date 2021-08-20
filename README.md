@@ -15,7 +15,7 @@
 
 #
 
-### 📕 interesse: 
+### 📕 Interesse: 
 
 <div styles="display: grid; ;place-items: center; place-content:center; spacing:20px">
   <img src="https://img.icons8.com/color/55/000000/c-sharp-logo.png"/>
@@ -35,6 +35,6 @@
 
 #
 
-### 🐍 cobrinha:
+### 🐍 Cobrinha:
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/AdryanS/AdryanS/output/github-contribution-grid-snake.svg)
