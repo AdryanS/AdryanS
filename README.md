@@ -39,4 +39,4 @@
 
 ## 🐍 Cobrinha:
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/AdryanS/AdryanS/output/github-contribution-grid-snake.svg)
+![Cobrinha](https://raw.githubusercontent.com/AdryanS/AdryanS/output/github-contribution-grid-snake.svg)
