@@ -1,8 +1,8 @@
 ## Olá me chamo Adryan Samuel 🚀
 
-### tenho 16 anos e sou desenvolvedor Front-end 💻
+### tenho 17 anos e sou desenvolvedor Full-Stack 💻
 
-### Comecei a programar no começo de 2020 aprendendo JavaScript desde então não o larguei, hoje eu sou Front-end mas iniciando na parte de Back-end começando a me formar um Full-stack.
+### Comecei a programar no começo de 2020 aprendendo JavaScript desde então não larguei a profissão, hoje eu sou Full-Stack Javascript e Typescript.
 
 <br>
 
