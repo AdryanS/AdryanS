@@ -41,7 +41,7 @@
 ## 🏝 Redes Sociais:
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="55px" height="55px"/>](https://www.linkedin.com/in/adryan-samuel/)
-[<img src="https://user-images.githubusercontent.com/70078649/133133953-ed928943-a5f5-4991-a89d-35fbf8f2c169.png" width="55px" height="55px"/>](https://www.instagram.com/adryansam12/)
+[<img src="https://user-images.githubusercontent.com/70078649/133133953-ed928943-a5f5-4991-a89d-35fbf8f2c169.png" width="55px" height="55px"/>](https://www.instagram.com/dev.adryan/)
 <br>
 
 ## 🍕 Estatisticas:
