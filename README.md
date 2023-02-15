@@ -2,7 +2,7 @@
 
 
 ## 🚀 Sobre mim
-Atuo como Desenvolvedor Full-Stack, com maior aptidão em Front-End desde 2020, onde 
+Desenvolvedor Full-Stack, com maior aptidão em Front-End desde 2020, onde 
 comecei a aprender ainda no Ensino Médio. 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-adryans.vercel.app/)
