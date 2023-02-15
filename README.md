@@ -34,11 +34,11 @@ comecei a aprender ainda no Ensino Médio.
 
 ## 📌 Alguns fatos...
 
-🧠 Estou aprendendo testes unitarios com jest!
+🧠 Estou aprendendo testes unitarios com Jest!
 
 🤣 Docker é muito dificil, nunca aprendi isso!
 
-😎 Tenho um conhecimento consideravel em css!
+😎 Tenho um conhecimento consideravel em CSS!
 
 
 ## 🃏 Cards
