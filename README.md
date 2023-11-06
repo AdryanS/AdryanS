@@ -41,10 +41,4 @@ comecei a aprender ainda no Ensino Médio.
 
 ## 🃏 Cards
 
-<p align="center">
-
 [![card](https://github-readme-stats.vercel.app/api?username=adryans&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=adryans&hide=html&layout=compact=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-</p>
