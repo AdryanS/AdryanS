@@ -34,9 +34,7 @@ comecei a aprender ainda no Ensino Médio.
 
 ## 📌 Alguns fatos...
 
-🧠 Estou aprendendo testes unitarios com Jest!
-
-🤣 Docker é muito dificil, nunca aprendi isso!
+🧠 Estou aprendendo a fazer códigos limpos!
 
 😎 Tenho um conhecimento consideravel em CSS!
 
