@@ -2,9 +2,6 @@
 
 ### Sou um desenvolvedor Full-Stack, com maior aptidão em Front-End desde 2020, onde comecei a aprender ainda no Ensino Médio.
 
-
-##  📌 Aleatoriedade
-
 🧠 Estou aprendendo a fazer códigos limpos!
 
 😎 Tenho um conhecimento consideravel em CSS!
@@ -13,12 +10,13 @@
 
 🚀 Me segue ai!
 
+<br>
 
-## 🔗 Minhas redes sociais
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-adryans.vercel.app/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adryan-samuel/)
 [![twitter](https://img.shields.io/badge/instagram-fe223e?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dev.adryan)
 
+<br>
 
 ## 🛠 Minhas Habilidades
 
@@ -105,10 +103,15 @@
   />
 </a>
 
+<br>
+<br>
+
 ## 🎨 Repos que tenho orgulho:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adryans&repo=buspass&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adryans&repo=next-commerce&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
 
 ## 🃏 Cards
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adryans&layout=compact&theme=tokyonight)
