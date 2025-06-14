@@ -54,7 +54,7 @@
     alt="Git icon"
     height="40"
     width="50"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
   />
 </a>
 <a href="https://chakra-ui.com" target="_blank">
@@ -91,7 +91,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"
   />
 </a>
-<a href="https://github.com/" target="_blank"> <img align="center" alt="GitHub icon" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"> </a>
+<a href="https://github.com/" target="_blank"> <img align="center" alt="GitHub icon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg"> </a>
 <a href="https://www.figma.com/" target="_blank"> <img align="center" alt="Figma icon" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"> </a>
 <a href="https://www.notion.so" target="_blank">
   <img
@@ -99,7 +99,7 @@
     alt="Git icon"
     height="40"
     width="50"
-    src="https://raw.githubusercontent.com/AdryanS/AdryanS/a5f4c4793605df7491bdf7e0923fa111e4a59a1d/image/notion.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg"
   />
 </a>
 
