@@ -10,9 +10,3 @@
   <a href="https://www.linkedin.com/in/adryan-samuel/">LinkedIn</a> &nbsp;|&nbsp;
   <a href="https://instagram.com/dev.adryan">Instagram</a>
 </p>
-
----
-
-**Currently:** Focusing on clean code, component architecture, and Next.js projects.
-
-**Recent experience:** Streaming platform with websockets, Android apps with Expo, and transport/payment systems.
