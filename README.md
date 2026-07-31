@@ -1,8 +1,8 @@
 <h1 align="left">Adryan Rodrigues</h1>
 
 <p align="left">
-  Full-Stack Developer · Front-End first<br>
-  Next.js · Nuxt.js · Node.js · TypeScript
+  AI Specialist · Full-Stack Developer · Front-End first<br>
+  AI · Next.js · Node.js · TypeScript
 </p>
 
 <p align="left">
