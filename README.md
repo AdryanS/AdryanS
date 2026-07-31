@@ -7,6 +7,6 @@
 
 <p align="left">
   <a href="https://portfolio-adryans.vercel.app">Portfolio</a> &nbsp;|&nbsp;
-  <a href="https://www.linkedin.com/in/adryan-samuel/">LinkedIn</a> &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/adryan-rodrigues">LinkedIn</a> &nbsp;|&nbsp;
   <a href="https://instagram.com/dev.adryan">Instagram</a>
 </p>
